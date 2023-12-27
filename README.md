@@ -4,10 +4,10 @@ Pradeep Kumar Behera
 
 ## Installation
 
-# $ npm i -g @nestjs/cli
+- $ npm i -g @nestjs/cli
 
-# $ nest new nest-first-app
+- $ nest new nest-first-app
 
 ## Open Application environment
 
-http://localhost:3001/
+- http://localhost:3001/
